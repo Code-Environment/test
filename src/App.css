@@ -1,0 +1,40 @@
+.toggle{
+  width: 100%;
+  height: 0vh;
+}
+.reserve-meals {
+  width: 90%;
+  height: 10vh;
+}
+.hide{
+  width: 10%;
+margin-top: 5px;
+cursor: pointer;
+margin-left: 70rem;
+border: 2px solid green;
+}
+.itempucharse {
+  position: absolute;
+  width: 13%;
+  height: 90vh;
+  border: 2px solid blue;
+}
+nav {
+  width: 99.7%;
+  border: 2px solid red;
+  background-color: gold;
+}
+.inside-navbar{
+  width: 40%;
+  height: 2vh;
+  
+  margin-left: 38rem;
+}
+span {
+  padding: 40px;
+  font-size: 18px;
+
+}
+.inside-navbar  span:hover{
+  color: white;
+}
